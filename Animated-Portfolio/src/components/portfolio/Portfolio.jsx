@@ -7,7 +7,8 @@ const items = [
     {
         id:1,
         title:"Expense Tracker",
-        img:"https://images.unsplash.com/photo-1742226111230-1f7620e64851?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        img:"https://images.unsplash.com/photo-1742226111230-1f7620e64851?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        des:"Developed a full-stack application with user authentication (Login & Sign-Up), allowing users to securely manage their income and expenses."
     },
     {
         id:2,
